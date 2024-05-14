@@ -1,0 +1,39 @@
+.newsletter{
+    margin:100px auto;
+    display: flex;
+    align-self: center;
+    justify-content: flex-end;
+    
+
+}
+
+.newsletter h3{
+    font-weight: 600;
+    font-weight:16px;
+    color:black;
+    font-size: xx-large ;
+    margin-top: 300px;
+    margin-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.newsletter button{
+    width: 450px; /* Adjust width as needed */
+    height: 55px; /* Adjust height as needed */
+    border: 1px solid #171717; /* Border style */
+    border-radius: 5px; /* Rounded corners */
+    padding: 8px; /* Padding inside the box */
+    box-sizing: border-box;
+    margin-bottom: 100px;
+    background-color: black;
+    color:white;
+    font-size:large;
+    font-family: "Poppins", sans-serif;
+    
+
+
+
+}
+
+
